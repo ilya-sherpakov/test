@@ -87,6 +87,9 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
+slnx.sqlite
+*.suo
+VSWorkspaceState.json
 
 # Chutzpah Test files
 _Chutzpah*
